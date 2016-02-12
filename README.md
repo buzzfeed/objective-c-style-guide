@@ -177,7 +177,7 @@ UIButton *settingsButton;
 UIButton *setBut;
 ```
 
-A three letter prefix (e.g. `BF`) should always be used for class names and constants. Constants should be camel-case with all words capitalized and prefixed by the related class name for clarity.
+A two or three letter prefix (e.g. `BF`) should always be used for class names and constants. Constants should be camel-case with all words capitalized and prefixed by the related class name for clarity.
 
 **For example:**
 
